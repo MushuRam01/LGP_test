@@ -1,0 +1,6 @@
+file in folder
+
+
+git add 
+git commit 
+git push 
